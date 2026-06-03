@@ -448,6 +448,25 @@ Scerrnshot
 
 Screenshot
 <img width="1366" height="768" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/2654d1a7-25ff-4c1e-baa0-b6bb8277c8bf" />
+## Assignment Completion Status
+
+| Task | Description                        | Status      |
+| ---- | ---------------------------------- | ----------- |
+| 1    | GitHub Repository Creation         | ✅ Completed |
+| 2    | Repository Clone                   | ✅ Completed |
+| 3    | Initial Development on Main Branch | ✅ Completed |
+| 4    | Feature-A Branch Creation          | ✅ Completed |
+| 5    | Pull Request (feature-A → main)    | ✅ Completed |
+| 6    | Feature-B Branch Creation          | ✅ Completed |
+| 7    | Merge Feature-A                    | ✅ Completed |
+| 8    | Merge Conflict Resolution          | ✅ Completed |
+| 9    | Merge Feature-B                    | ✅ Completed |
+| 10   | Fork and Contribution              | ✅ Completed |
+| 11   | GitLab Repository Setup            | ✅ Completed |
+| 12   | Repository Mirroring               | ✅ Completed |
+| 13   | Branch Protection Configuration    | ✅ Completed |
+| 14   | Final Verification                 | ✅ Completed |
+
 
 
 
