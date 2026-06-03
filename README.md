@@ -26,3 +26,5 @@ Task 1: Create a GitHub Repositor
 ✅ README.md file initialized
 
 ✅ Repository set to Public
+<img width="1366" height="768" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/e260062f-4b02-405d-b5bc-9c5981728e08" />
+
